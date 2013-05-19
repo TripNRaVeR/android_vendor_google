@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
     vendor/google/prebuilt/app/SetupWizard.apk:system/app/SetupWizard.apk \
     vendor/google/prebuilt/app/Street.apk:system/app/Street.apk \
-    vendor/google/prebuilt/app/PartnerBookmarksProvider.apk:system/app/PartnerBookmarksProvider.apk \
     vendor/google/prebuilt/app/Phonesky.apk:system/app/Phonesky.apk \
     vendor/google/prebuilt/app/Velvet.apk:system/app/Velvet.apk \
     vendor/google/prebuilt/app/VoiceSearch.apk:system/app/VoiceSearch.apk \
