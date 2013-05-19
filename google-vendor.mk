@@ -14,7 +14,6 @@
 
 # Google Applications
 PRODUCT_COPY_FILES += \
-    vendor/google/prebuilt/app/BrowserProviderProxy.apk:system/app/BrowserProviderProxy.apk \
     vendor/google/prebuilt/app/Calendar.apk:system/app/Calendar.apk \
     vendor/google/prebuilt/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk \
     vendor/google/prebuilt/app/GenieWidget.apk:system/app/GenieWidget.apk \
