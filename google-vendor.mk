@@ -29,7 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/LatinImeDictionaryPack.apk:system/app/LatinImeDictionaryPack.apk \
     vendor/google/prebuilt/app/Maps.apk:system/app/Maps.apk \
     vendor/google/prebuilt/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
-    vendor/google/prebuilt/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
     vendor/google/prebuilt/app/SetupWizard.apk:system/app/SetupWizard.apk \
     vendor/google/prebuilt/app/Street.apk:system/app/Street.apk \
     vendor/google/prebuilt/app/Phonesky.apk:system/app/Phonesky.apk \
