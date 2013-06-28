@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/Music.apk:system/app/Music.apk \
     vendor/google/prebuilt/app/GooglePartnerSetup.apk:system/app/GooglePartnerSetup.apk \
     vendor/google/prebuilt/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
-    vendor/google/prebuilt/app/LatinImeDictionaryPack.apk:system/app/LatinImeDictionaryPack.apk \
     vendor/google/prebuilt/app/Maps.apk:system/app/Maps.apk \
     vendor/google/prebuilt/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
     vendor/google/prebuilt/app/SetupWizard.apk:system/app/SetupWizard.apk \
