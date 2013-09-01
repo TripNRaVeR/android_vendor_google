@@ -14,7 +14,6 @@
 
 # Google Applications
 PRODUCT_COPY_FILES += \
-    vendor/google/prebuilt/app/Calendar.apk:system/app/Calendar.apk \
     vendor/google/prebuilt/app/GenieWidget.apk:system/app/GenieWidget.apk \
     vendor/google/prebuilt/app/Gmail.apk:system/app/Gmail.apk \
     vendor/google/prebuilt/app/GmsCore.apk:system/app/GmsCore.apk \
