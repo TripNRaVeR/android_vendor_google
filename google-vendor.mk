@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
     vendor/google/prebuilt/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
     vendor/google/prebuilt/app/GoogleLoginService.apk:system/app/GoogleLoginService.apk \
-    vendor/google/prebuilt/app/Music.apk:system/app/Music.apk \
     vendor/google/prebuilt/app/GooglePartnerSetup.apk:system/app/GooglePartnerSetup.apk \
     vendor/google/prebuilt/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
     vendor/google/prebuilt/app/Maps.apk:system/app/Maps.apk \
