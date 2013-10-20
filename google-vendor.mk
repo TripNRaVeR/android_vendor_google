@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
 
 # Google Libraries
 PRODUCT_COPY_FILES += \
-    vendor/google/prebuilt/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so \
     vendor/google/prebuilt/lib/libgoogle_recognizer_jni.so:system/lib/libgoogle_recognizer_jni.so \
     vendor/google/prebuilt/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so \
     vendor/google/prebuilt/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
