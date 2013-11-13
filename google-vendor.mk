@@ -20,8 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
     vendor/google/prebuilt/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
     vendor/google/prebuilt/app/GoogleEars.apk:system/app/GoogleEars.apk \
-    vendor/google/prebuilt/app/Hangouts.apk:system/app/Hangouts.apk \
-    vendor/google/prebuilt/app/Keep.apk:system/app/Keep.apk \
     vendor/google/prebuilt/app/Maps.apk:system/app/Maps.apk \
     vendor/google/prebuilt/app/Street.apk:system/app/Street.apk \
     vendor/google/prebuilt/app/YouTube.apk:system/app/YouTube.apk
