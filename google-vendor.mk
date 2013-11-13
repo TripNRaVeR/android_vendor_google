@@ -59,11 +59,15 @@ PRODUCT_COPY_FILES += \
 
 # Google Libraries
 PRODUCT_COPY_FILES += \
+    vendor/google/prebuilt/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so \
     vendor/google/prebuilt/lib/libfilterframework_jni.so:system/lib/libfilterframework_jni.so \
     vendor/google/prebuilt/lib/libfrsdk.so:system/lib/libfrsdk.so \
+    vendor/google/prebuilt/lib/liblinearalloc.so:system/lib/liblinearalloc.so \
+    vendor/google/prebuilt/lib/libndk1.so:system/lib/libndk1.so \
     vendor/google/prebuilt/lib/libgoogle_recognizer_jni_l.so:system/lib/libgoogle_recognizer_jni_l.so \
     vendor/google/prebuilt/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so \
     vendor/google/prebuilt/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
     vendor/google/prebuilt/lib/libvorbisencoder.so:system/lib/libvorbisencoder.so \
-    vendor/google/prebuilt/lib/libstlport_shared.so:system/lib/libstlport_shared.so
+    vendor/google/prebuilt/lib/libstlport_shared.so:system/lib/libstlport_shared.so \
+    vendor/google/prebuilt/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so
 
