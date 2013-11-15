@@ -33,7 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/priv-app/Phonesky.apk:system/priv-app/Phonesky.apk \
     vendor/google/prebuilt/priv-app/PrebuiltGmsCore.apk:system/priv-app/PrebuiltGmsCore.apk \
     vendor/google/prebuilt/priv-app/SetupWizard.apk:system/priv-app/SetupWizard.apk \
-    vendor/google/prebuilt/priv-app/talkback.apk:system/priv-app/talkback.apk \
     vendor/google/prebuilt/priv-app/Velvet.apk:system/priv-app/Velvet.apk
 
 # Google Permissions
