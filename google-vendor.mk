@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/Gmail.apk:system/app/Gmail.apk \
     vendor/google/prebuilt/app/Drive.apk:system/app/Drive.apk \
     vendor/google/prebuilt/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
+    vendor/google/prebuilt/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
     vendor/google/prebuilt/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
     vendor/google/prebuilt/app/GoogleEars.apk:system/app/GoogleEars.apk \
     vendor/google/prebuilt/app/Maps.apk:system/app/Maps.apk \
