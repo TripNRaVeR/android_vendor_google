@@ -22,6 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
     vendor/google/prebuilt/app/GoogleContactsSyncAdapter.odex:system/app/GoogleContactsSyncAdapter.odex \
     vendor/google/prebuilt/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
+    vendor/google/prebuilt/app/GoogleCalendarSyncAdapter.odex:system/app/GoogleCalendarSyncAdapter.odex \
     vendor/google/prebuilt/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
     vendor/google/prebuilt/app/GoogleTTS.odex:system/app/GoogleTTS.odex \
     vendor/google/prebuilt/app/GoogleEars.apk:system/app/GoogleEars.apk \
