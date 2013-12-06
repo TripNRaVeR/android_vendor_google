@@ -15,36 +15,26 @@
 # Google Applications
 PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/GenieWidget.apk:system/app/GenieWidget.apk \
-    vendor/google/prebuilt/app/GenieWidget.odex:system/app/GenieWidget.odex \
     vendor/google/prebuilt/app/Gmail2.apk:system/app/Gmail2.apk \
-    vendor/google/prebuilt/app/Gmail2.odex:system/app/Gmail2.odex \
     vendor/google/prebuilt/app/Drive.apk:system/app/Drive.apk \
     vendor/google/prebuilt/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
-    vendor/google/prebuilt/app/GoogleContactsSyncAdapter.odex:system/app/GoogleContactsSyncAdapter.odex \
     vendor/google/prebuilt/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
-    vendor/google/prebuilt/app/GoogleCalendarSyncAdapter.odex:system/app/GoogleCalendarSyncAdapter.odex \
     vendor/google/prebuilt/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
-    vendor/google/prebuilt/app/GoogleTTS.odex:system/app/GoogleTTS.odex \
     vendor/google/prebuilt/app/GoogleEars.apk:system/app/GoogleEars.apk \
-    vendor/google/prebuilt/app/GoogleEars.odex:system/app/GoogleEars.odex \
-    vendor/google/prebuilt/app/Maps.apk:system/app/Maps.apk \
+    vendor/google/prebuilt/app/GMS_Maps.apk:system/app/GMS_Maps.apk \
+    vendor/google/prebuilt/app/PrebuiltGmsCore.apk:system/app/PrebuiltGmsCore.apk \
     vendor/google/prebuilt/app/Street.apk:system/app/Street.apk \
     vendor/google/prebuilt/app/YouTube.apk:system/app/YouTube.apk
 
 # Google Private Applications
 PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/priv-app/GoogleBackupTransport.apk:system/priv-app/GoogleBackupTransport.apk \
-    vendor/google/prebuilt/priv-app/GoogleBackupTransport.odex:system/priv-app/GoogleBackupTransport.odex \
     vendor/google/prebuilt/priv-app/GoogleLoginService.apk:system/priv-app/GoogleLoginService.apk \
-    vendor/google/prebuilt/priv-app/GoogleLoginService.odex:system/priv-app/GoogleLoginService.odex \
     vendor/google/prebuilt/priv-app/GooglePartnerSetup.apk:system/priv-app/GooglePartnerSetup.apk \
-    vendor/google/prebuilt/priv-app/GooglePartnerSetup.odex:system/priv-app/GooglePartnerSetup.odex \
     vendor/google/prebuilt/priv-app/GoogleServicesFramework.apk:system/priv-app/GoogleServicesFramework.apk \
-    vendor/google/prebuilt/priv-app/GoogleServicesFramework.odex:system/priv-app/GoogleServicesFramework.odex \
     vendor/google/prebuilt/priv-app/Phonesky.apk:system/priv-app/Phonesky.apk \
-    vendor/google/prebuilt/priv-app/PrebuiltGmsCore.apk:system/priv-app/PrebuiltGmsCore.apk \
+    vendor/google/prebuilt/priv-app/GmsCore.apk:system/priv-app/GmsCore.apk \
     vendor/google/prebuilt/priv-app/SetupWizard.apk:system/priv-app/SetupWizard.apk \
-    vendor/google/prebuilt/priv-app/SetupWizard.odex:system/priv-app/SetupWizard.odex \
     vendor/google/prebuilt/priv-app/Velvet.apk:system/priv-app/Velvet.apk \
     vendor/google/prebuilt/priv-app/Wallet.apk:system/priv-app/Wallet.apk
 
@@ -66,23 +56,17 @@ PRODUCT_COPY_FILES += \
 # Google Frameworks
 PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/framework/com.google.android.maps.jar:system/framework/com.google.android.maps.jar \
-    vendor/google/prebuilt/framework/com.google.android.maps.odex:system/framework/com.google.android.maps.odex \
     vendor/google/prebuilt/framework/com.google.android.media.effects.jar:system/framework/com.google.android.media.effects.jar \
-    vendor/google/prebuilt/framework/com.google.android.media.effects.odex:system/framework/com.google.android.media.effects.odex \
-    vendor/google/prebuilt/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
-    vendor/google/prebuilt/framework/com.google.widevine.software.drm.odex:system/framework/com.google.widevine.software.drm.odex
+    vendor/google/prebuilt/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar
 
 # Google Libraries
 PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so \
     vendor/google/prebuilt/lib/libfilterframework_jni.so:system/lib/libfilterframework_jni.so \
-    vendor/google/prebuilt/lib/libfrsdk.so:system/lib/libfrsdk.so \
     vendor/google/prebuilt/lib/liblinearalloc.so:system/lib/liblinearalloc.so \
     vendor/google/prebuilt/lib/libndk1.so:system/lib/libndk1.so \
     vendor/google/prebuilt/lib/libgoogle_recognizer_jni_l.so:system/lib/libgoogle_recognizer_jni_l.so \
-    vendor/google/prebuilt/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so \
     vendor/google/prebuilt/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
     vendor/google/prebuilt/lib/libvorbisencoder.so:system/lib/libvorbisencoder.so \
-    vendor/google/prebuilt/lib/libstlport_shared.so:system/lib/libstlport_shared.so \
-    vendor/google/prebuilt/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so
+    vendor/google/prebuilt/lib/libstlport_shared.so:system/lib/libstlport_shared.so
 
