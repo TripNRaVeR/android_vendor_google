@@ -65,6 +65,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/lib/libfilterframework_jni.so:system/lib/libfilterframework_jni.so \
     vendor/google/prebuilt/lib/liblinearalloc.so:system/lib/liblinearalloc.so \
     vendor/google/prebuilt/lib/libndk1.so:system/lib/libndk1.so \
+    vendor/google/prebuilt/lib/libocrclient.so:system/lib/libocrclient.so \
     vendor/google/prebuilt/lib/libgoogle_recognizer_jni_l.so:system/lib/libgoogle_recognizer_jni_l.so \
     vendor/google/prebuilt/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
     vendor/google/prebuilt/lib/libvorbisencoder.so:system/lib/libvorbisencoder.so \
